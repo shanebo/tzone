@@ -1,6 +1,6 @@
 {
 	"name": "tzone",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "simple time zone detection",
 	"keywords": ["time zone"],
 	"repository": "git://github.com/shanebo/tzone.git",
